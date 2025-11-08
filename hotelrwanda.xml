@@ -1,0 +1,88 @@
+<hotels_Rwanda>
+
+    <Hotel category="5_star">
+        <title lang="en">Serena</title>
+        <location>KN3 ave kigali</location>
+        <phone>+250788184500</phone>
+        <price>$250 per night</price>
+        <hotel_details>free wifi,free parking,paid Breakfast,outdoor pool and air conditioner</hotel_details>
+        <url>https://www.serenahotels.com/kigali/en/default.html</url>
+    </Hotel>
+    <Hotel category="5_star">
+        <title lang="en">Radisson blu</title>
+        <location>kigali roundabout</location>
+        <phone>252 252 252</phone>
+        <price>$270 per night</price>
+        <hotel_details>free wifi,free parking,paid Breakfast,outdoor pool and air conditioner</hotel_details>
+        <url>https://www.radissonhotels.com/en-us/hotels/radisson-blu-convention-kigali</url>
+    </Hotel>
+    <Hotel category="5_star">
+        <title lang="en">kigali marriot</title>
+        <location>KN3 ave kigali</location>
+        <phone>+250788316607</phone>
+        <price>$200 per night</price>
+        <hotel_details>free parking,paid Breakfast,outdoor pool and spa</hotel_details>
+        <url>https://www.marriott.com/en-us/hotels/kglmc-kigali-marriott-hotel/overview/?scid=f2ae0541-1279-4f24-b197-a979c79310b0</url>  
+
+    </Hotel>
+    <Hotel category="4_star">
+        <title lang="en">four points</title>
+        <location>kigali</location>
+        <phone>+250788163100</phone>
+        <price>$170 per night</price>
+        <hotel_details>free wifi,free parking,paid Breakfast,outdoor pool and air conditioner</hotel_details>
+        <url>https://www.marriott.com/en-us/hotels/kglfp-four-points-kigali/overview/?scid=f2ae0541-1279-4f24-b197-a979c79310b0</url>
+    </Hotel>
+    <Hotel category="4_star">
+        <title lang="en">mille collines</title>
+        <location>kyiyovu</location>
+        <phone>+250788301234</phone>
+        <price>$150 per night</price>
+        <hotel_details>free wifi,free parking,paid Breakfast,outdoor pool and air conditioner</hotel_details>
+        <url>http://www.millecollineshotel.com/</url>
+    </Hotel>
+    <Hotel category="4_star">
+        <title lang="en">Lemigo</title>
+        <location>Remera</location>
+        <phone>+250788301234</phone>
+        <price>$130 per night</price>
+        <hotel_details>free wifi,free parking,paid Breakfast,outdoor pool and air conditioner</hotel_details>
+        <url>https://www.lemigohotel.com/</url>
+        </Hotel>
+        <Hotel category="3_star">
+        <title lang="en">silver_hotel</title>
+        <location>KG 48 st Kigali</location>
+        <phone>+250788303434</phone>
+        <price>$70 per night</price>
+        <hotel_details>free wifi,free parking and paid Breakfast</hotel_details>
+        <url>http://www.Silverhotel.com/</url>
+    </Hotel>
+    <Hotel category="3_star">
+        <title lang="en">Hotel Chez Lando</title>
+        <location>Kigali</location>
+        <phone>+250788541234</phone>
+        <price>$90 per night</price>
+        <hotel_details>free wifi,free parking,paid Breakfast,outdoor pool and air conditioner</hotel_details>
+        <url>https://www.chezlando.com/</url>
+        </Hotel>
+    <Hotel category="2_star">
+        <title lang="en">Hotel Villa Portofino</title>  
+        <location>gikondo</location>
+        <phone>+250788567890</phone>
+        <price>$85 per night</price>
+        <hotel_details>free wifi,free parking and air conditioner</hotel_details>
+        <url>http://www.villaportofino.rw/</url>
+    </Hotel>
+    <Hotel category="2_star">
+        <title lang="en">Hotel ibis</title>
+        <location>kigali</location>
+        <phone>+250788123456</phone>
+        <price>$45 per night</price>
+        <hotel_details>free wifi,free parking and air conditioner</hotel_details>
+        <url>https://all.accor.com/hotel/8213/index.en.shtml</url>
+    </Hotel>
+
+
+  
+
+</hotels_Rwanda>
